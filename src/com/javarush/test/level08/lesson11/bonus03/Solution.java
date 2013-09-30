@@ -28,7 +28,24 @@ public class Solution
 
     public static void sort(String[] array)
     {
-        //Напишите тут ваш код
+        String cs;
+        boolean wasChange = true;
+
+        while (wasChange == true)
+        { wasChange = false;
+
+            for (int i = 0; i < array.length-1; i++)
+            {
+                if (isGreaterThen(array[i], array[i+1]))
+                {
+                    wasChange = true;
+                    cs = array[i];
+                    array[i] = array[i+1];
+                    array[i+1] = cs;
+                }
+            }
+        }
+
     }
 
     //Метод для сравнения строк: 'а' больше чем 'b'
