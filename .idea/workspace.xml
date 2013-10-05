@@ -4,7 +4,7 @@
     <list default="true" id="49e868cb-6c28-469e-9a04-9674b5bddb2b" name="Default" comment="" />
     <ignored path="JavaRushHomeWork.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381000428822" ignored="false" />
+    <file path="/Solution.java" changelist="49e868cb-6c28-469e-9a04-9674b5bddb2b" time="1381001911296" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,7 @@
         <option value="$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home08/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/bonus01/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home06/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home05/Solution.java" />
       </list>
     </option>
   </component>
@@ -287,7 +288,7 @@
   <component name="RunManager" selected="Application.Solution">
     <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level08.lesson11.home06.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.javarush.test.level08.lesson11.home05.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -397,10 +398,11 @@
       <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Application.Solution" />
         <item index="1" class="java.lang.String" itemvalue="Application.Solution" />
         <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -529,24 +531,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaRushPlugin.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaRushPlugin.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0" />
+        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaRushPlugin.properties">
@@ -556,12 +545,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0" />
+        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaRushPlugin.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.65384614" />
+        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DO NOT READ.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="0" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.65384614">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaRushPlugin.properties">
@@ -608,7 +613,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="29" selection-start="372" selection-end="372" vertical-scroll-proportion="0.329806">
           <folding>
-            <element signature="e#2429#2436#0" expanded="true" />
+            <element signature="e#2429#2436#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -617,7 +622,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="50" selection-start="590" selection-end="590" vertical-scroll-proportion="0.329806">
           <folding>
-            <element signature="e#772#789#0" expanded="true" />
+            <element signature="e#772#789#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -626,7 +631,17 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="85" selection-start="610" selection-end="688" vertical-scroll-proportion="0.7178131">
           <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javarush/test/level08/lesson11/home05/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="20" selection-start="966" selection-end="966" vertical-scroll-proportion="0.28042328">
+          <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#990#998#0" expanded="true" />
           </folding>
         </state>
       </provider>
